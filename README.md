@@ -40,7 +40,7 @@ For exploratory data analysis, we looked at the categorical variables against wa
 <div id = 'header'>
   <img src="./images/wage_over_50K_marital_status.png">
   <img src="./images/wage_over_50K_occupation.png">
-  <img src="./images/wage_over_50k_workclass.png">
+  <img src="./images/wage_over_50K_workclass.png">
 </div>
 
 * <b><font size = 4>Feature Engineering</font></b><br>
